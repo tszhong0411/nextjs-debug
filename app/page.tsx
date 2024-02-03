@@ -1,3 +1,3 @@
 export default function Page() {
-  return <div>Hello world</div>;
+  return <div className="bg-special">Hello world</div>;
 }
